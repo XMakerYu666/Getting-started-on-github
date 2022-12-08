@@ -1,4 +1,4 @@
-# Getting-started-on-github
+# Getting-started-with-github
 #### 内容:创建账号，创建代码仓库，制作简易网页
 #### 时间:2022年12月10日 15:15-16:45
 #### 报名条件:10岁以上，学员免费，非学员200
